@@ -28,15 +28,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=02bouzid-abderrahmane-lazhari&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bouzid-abderrahmane-lazhari02&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=02bouzid-abderrahmane-lazhari&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouzid-abderrahmane-lazhari02&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02bouzid-abderrahmane-lazhari&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzid-abderrahmane-lazhari02&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=02bouzid-abderrahmane-lazhari&theme=dracula&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bouzid-abderrahmane-lazhari02&theme=dracula&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 ### 👀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=02bouzid-abderrahmane-lazhari&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bouzid-abderrahmane-lazhari02&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
