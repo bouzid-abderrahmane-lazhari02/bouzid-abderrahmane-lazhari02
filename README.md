@@ -1,16 +1,30 @@
 <!-- 💫 Bouzid Abderrahmane Lazhari - Flutter Front-End Developer 💫 -->
 
-<h1 align="center">👋 Hi, I'm Bouzid Abderrahmane Lazhari</h1>
+<!-- 🌟 Banner Section -->
+<p align="center">
+  <img src="https://github.com/bouzid-abderrahmane-lazhari/bouzid-abderrahmane-lazhari/blob/main/banner.png" alt="BouZid Abderrahmane Lazhari | Flutter Developer Banner" width="100%"/>
+</p>
+
+<!-- 👋 Welcome Section -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi, I'm Bouzid Abderrahmane Lazhari
+</h1>
+
 <h3 align="center">💙 Flutter Front-End Developer from Algeria 🇩🇿</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="coding gif" />
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on improving mobile app performance and UI design.  
-- 🌱 I’m learning more about **Firebase**, **Riverpod**, and **UI/UX Principles**.  
-- 💬 Ask me about **Flutter**, **Dart**, or anything Front-End related!  
-- 🎯 My goal is to create **clean, elegant, and functional** mobile applications.  
-- ⚡ Fun fact: I love turning ideas into real digital experiences.
+- 🔭 Currently improving my **Flutter UI/UX** and **state management** skills.  
+- 🌱 Learning advanced **Firebase integration** and backend communication.  
+- 💬 Ask me about **Flutter**, **Dart**, or **mobile app architecture**.  
+- 🎯 I focus on writing clean, reusable, and responsive code.  
+- ⚡ Passionate about transforming creative ideas into real mobile experiences.
 
 ---
 
@@ -52,9 +66,16 @@
 
 ---
 
-### 🧠 Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — *Cory House*
+### 💬 Quote of the Day
+> “The only way to do great work is to love what you do.”  
+> — *Steve Jobs*
+
+---
+
+### 👀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bouzid-abderrahmane-lazhari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bouzid-abderrahmane-lazhari" />
+</p>
 
 ---
 
