@@ -35,15 +35,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bouzid-abderrahmane-lazhar02&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bouzid-abderrahmane-lazhari02&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouzid-abderrahmane-lazhar02&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouzid-abderrahmane-lazhari02&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzid-abderrahmane-lazhar02&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzid-abderrahmane-lazhari02&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bouzid-abderrahmane-lazhar02&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bouzid-abderrahmane-lazhari02&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -79,9 +79,9 @@
 
 ### 👀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bouzid-abderrahmane-lazhar02&label=Profile%20Views&color=1abc9c&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bouzid-abderrahmane-lazhari02&label=Profile%20Views&color=1abc9c&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-⭐️ From [bouzid-abderrahmane-lazhar02](https://github.com/bouzid-abderrahmane-lazhar02)
+⭐️ From [bouzid-abderrahmane-lazhar02](https://github.com/bouzid-abderrahmane-lazhari02)
